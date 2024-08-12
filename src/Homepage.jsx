@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Server, Users, Database, ArrowUpRight, Clock, Zap, ShieldCheck, CheckCircle, BarChart, Brain, Shield, Globe, Heart, HeartHandshake, MapPin, Wrench, Check } from 'lucide-react';
+import { ArrowRight, Server, Users, Database, ArrowUpRight, Clock, Zap, ShieldCheck, CheckCircle, BarChart, Brain, Shield, Heart, Check } from 'lucide-react';
 import logo from './logo.png'; // Adjust path as needed
 import PackageSelector from './PackageSelector.jsx'; 
 
